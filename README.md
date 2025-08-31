@@ -7,7 +7,7 @@ I'm a Python developer from Kyiv, Ukraine, passionate about backend development 
 - 🏡 Based in Kyiv
 - 📞 +380 95 759 4099
 - 📧 Email: maksimvel2000@gmail.com
-- 💬 Telegram: [@zefirsyss](https://t.me/zefirsyss)
+- 💬 Telegram: [@zefiryss](https://t.me/zefiryss)
 - 🔗 [LinkedIn: Maxim Velichko](https://www.linkedin.com/in/maxim-velichko)
 - 🎮 Discord: _johndavis
 
