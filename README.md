@@ -5,7 +5,6 @@ I'm a Python developer from Kyiv, Ukraine, passionate about backend development 
 ## 💼 About Me
 
 - 🏡 Based in Kyiv
-- 📞 +380 95 759 4099
 - 📧 Email: maksimvel2000@gmail.com
 - 💬 Telegram: [@zefiryss](https://t.me/zefiryss)
 - 🔗 [LinkedIn: Maxim Velichko](https://www.linkedin.com/in/maxim-velichko)
@@ -43,7 +42,7 @@ I specialize in backend development using Python, Django, and FastAPI. My work f
 
 ## 📜 Certificates
 
-- ["Python Developer Profession" (itProger, 2024)](https://itproger.com/certificate/xxxxxx) <!-- Replace with your certificate link -->
+- ["Python Developer Profession" (itProger, 2024)](https://itproger.com/image_text/add_diplom_text.php?image=python-ua&email=maksimvel2000@gmail.com)
 
 ## 🌍 Languages
 
