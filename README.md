@@ -35,7 +35,7 @@ I specialize in backend development using Python, Django, and FastAPI. My work f
   CRUD for books, authors, genres; search and filtering features.
 - [Online Diaries Platform](https://github.com/Maksim124512M/OnlineDiariesPlatform)  
   REST API with JWT authentication, pagination, and permissions.
-- [FastAPI Currency Tracker](https://github.com/Maksim124512M/FastAPI_Currency_Tracker)  
+- [FastAPI Currency Tracker](https://github.com/Maksim124512M/FastAPI-currency-tracker)  
   Tracks exchange rates with FastAPI, Celery, and Docker.
 
 👉 Check out [more projects on my GitHub profile](https://github.com/Maksim124512M)!
