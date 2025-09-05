@@ -41,11 +41,20 @@ I specialize in backend development using Python, Django, and FastAPI. My work f
 ## 📝 Personal Projects
 
 - [LibraFlow – Digital Library API](https://github.com/Maksim124512M/LibraFlow)  
-  CRUD for books, authors, genres; search and filtering features.
-- [Online Diaries Platform](https://github.com/Maksim124512M/MindStream)  
-  REST API with JWT authentication, pagination, and permissions.
+   ➤ CRUD for books, authors, genres <br>
+   ➤ Implemented search, filtering <br>
+   ➤ Developed an automatic task with Celery for a checking  book rentals <br>
+   ➤ Integrated Stripe API for book rental payments <br>
+   ➤ Created Docker and Docker Compose containerization <br>
+
 - [FastAPI Currency Tracker](https://github.com/Maksim124512M/FastAPI-currency-tracker)  
-  Tracks exchange rates with FastAPI, Celery, and Docker.
+   ➤ Developed an API for tracking currency exchange rates        <br>
+   ➤ Implemented periodic data fetching and updating with      <br>
+   ➤ Integrated NBU API for retrieving currency data <br>
+  
+- [Online Diaries Platform](https://github.com/Maksim124512M/MindStream)  
+   ➤ Built REST API with JWT auth, pagination, permissions  <br>
+   ➤ Created Docker and Docker Compose containerization <br>
 
 👉 Check out [more projects on my GitHub profile](https://github.com/Maksim124512M)!
 
