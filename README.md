@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-I'm a Python developer from Kyiv, Ukraine, passionate about backend development and API design. I have 1.5 years of experience building high-load APIs, optimizing databases, and creating robust monitoring systems.
+I'm a Python developer, passionate about backend development and API design. I have 1.5 years of experience building high-load APIs, optimizing databases, and creating robust monitoring systems.
 
 ## 💼 About Me
 
