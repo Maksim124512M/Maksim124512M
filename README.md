@@ -17,9 +17,18 @@ I specialize in backend development using Python, Django, and FastAPI. My work f
 ### Recent Experience
 
 - **HackSpire Team (2024-2025):**  
-  Built and optimized a mind-mapping API service, reducing response times by 70% and simplifying onboarding with Swagger docs.
+   - Built an API for mind-mapping service. 
+   - Optimized ORM queries (–30% response time). 
+   - Set up Swagger documentation → faster onboarding for developers. 
+   - Implemented query caching to reduce database load. 
+   - Wrote unit tests for core API functionality.
+     
 - **LeavePulse (2024–now):**  
-  Created a monitoring API for Minecraft servers (Django, Celery, PostgreSQL) and designed adaptive charts for online activity.
+   - Built an  API for Minecraft servers monitoring (Django, Celery, PostgreSQL). 
+   - Designed a  data deduplication system & adaptive charts for online activity 
+   - Implemented caching system to reduce DB load and speed up responses.  
+   - Developed an automatic task queue with Celery for background processing. 
+   - Added JWT & Google authentication for secure user access. 
 
 ## 🛠️ Skills
 
@@ -29,7 +38,7 @@ I specialize in backend development using Python, Django, and FastAPI. My work f
 - **Testing:** Unittest, pytest
 - **Other:** Selenium, BeautifulSoup, Asyncio, httpx, aiohttp
 
-## 📝 Featured Projects
+## 📝 Personal Projects
 
 - [LibraFlow – Digital Library API](https://github.com/Maksim124512M/LibraFlow)  
   CRUD for books, authors, genres; search and filtering features.
