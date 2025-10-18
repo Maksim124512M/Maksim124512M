@@ -1,7 +1,7 @@
 # Hi, I'm Max 👋
 
-I'm a Python developer, passionate about backend development and API design. I have 1.5 years of experience building high-load APIs, optimizing databases, and creating robust monitoring systems.
-
+I'm a Data Scientist & Machine Learning Engineer passionate about building intelligent systems and data-driven APIs.
+I have 1.5 years of experience in Python development — designing scalable data pipelines, training ML models, and deploying them into production with Docker.
 ## 💼 About Me
 
 - 🏡 Based in Kyiv
@@ -12,48 +12,49 @@ I'm a Python developer, passionate about backend development and API design. I h
 
 ## 🚀 What I Do
 
-I specialize in backend development using Python, Django, and FastAPI. My work focuses on building scalable APIs, optimizing performance, and deploying solutions with Docker. I love solving complex problems and making software run faster and smoother.
+I specialize in Machine Learning, Data Analysis, and Backend for ML systems.
+My projects combine strong analytical thinking, clean backend architecture, and production-ready deployment practices.
+I love transforming raw data into insights, visualizations, and deployable ML models.
 
 ### Recent Experience
 
-- **HackSpire Team (2024-2025):**  
-   - Built an API for mind-mapping service. 
+- **HackSpire Team (02.2025-06.2025):**  
+   - Built scalable API for mind-mapping platform. 
    - Optimized ORM queries (–30% response time). 
-   - Set up Swagger documentation → faster onboarding for developers. 
-   - Implemented query caching to reduce database load. 
-   - Wrote unit tests for core API functionality.
+   - Added caching & Swagger docs → improved DX and performance 
+   - Enhanced API security and request validation with custom permissions and throttling policies
      
-- **LeavePulse (2024–now):**  
-   - Built an  API for Minecraft servers monitoring (Django, Celery, PostgreSQL). 
-   - Designed a  data deduplication system & adaptive charts for online activity 
-   - Implemented caching system to reduce DB load and speed up responses.  
-   - Developed an automatic task queue with Celery for background processing. 
-   - Added JWT & Google authentication for secure user access. 
+- **LeavePulse (03.2025–09.2025):**  
+   - Built data collection and monitoring pipeline for Minecraft server analytics 
+   - Developed data deduplication and preprocessing system for clean time-series analytics 
+   - Developed ML-based insights module to detect player activity trends and anomalies across servers 
+   - Implemented secure data access and model endpoints with JWT and Google OAuth
 
 ## 🛠️ Skills
 
-- **Backend:** Python, Django, DRF, FastAPI, SQL, PostgreSQL, Redis, Celery
-- **Frontend:** HTML, CSS, Bootstrap
-- **Tools:** Git, GitHub, Docker
+- **Machine Learning:** scikit-learn, PyTorch, Transformers, Datasets
+- **Data & Math:** pandas, numpy, matplotlib, statistics, linear algebra, optimization 
+- **Backend & Tools:** Python, FastAPI, Django, PostgreSQL, Redis, Celery, Docker, Git
 - **Testing:** Unittest, pytest
 - **Other:** Selenium, BeautifulSoup, Asyncio, httpx, aiohttp
 
 ## 📝 Personal Projects
+- [CIFAR10 image classifier](https://github.com/Maksim124512M/CIFAR10-Image-Classifier)  
+   ➤ Built CNN in PyTorch for CIFAR-10 classification <br>
+   ➤ Built FastAPI endpoint for real-time inference <br>
+   ➤ Packaged model and API in Docker for easy deployment <br>
+   
+- [Youtube sentiment analyzer](https://github.com/Maksim124512M/Youtube-Sentiment-Analyzer)  
+   ➤ Built sentiment analysis pipeline using Hugging Face Transformers to classify YouTube comments as positive, negative, or neutral <br>
+   ➤ Created FastAPI endpoint to serve analysis results and generate sentiment plots in real-time <br>
+   ➤ Logged experiments, metrics, and models with MLflow for reproducibility and tracking <br>
+   ➤ Packaged model, API, and dependencies in Docker for easy deployment <br>
 
 - [LibraFlow – Digital Library API](https://github.com/Maksim124512M/LibraFlow)  
    ➤ CRUD for books, authors, genres <br>
    ➤ Implemented search, filtering <br>
    ➤ Developed an automatic task with Celery for a checking  book rentals <br>
    ➤ Integrated Stripe API for book rental payments <br>
-   ➤ Created Docker and Docker Compose containerization <br>
-
-- [FastAPI Currency Tracker](https://github.com/Maksim124512M/FastAPI-currency-tracker)  
-   ➤ Developed an API for tracking currency exchange rates        <br>
-   ➤ Implemented periodic data fetching and updating with      <br>
-   ➤ Integrated NBU API for retrieving currency data <br>
-  
-- [Online Diaries Platform](https://github.com/Maksim124512M/MindStream)  
-   ➤ Built REST API with JWT auth, pagination, permissions  <br>
    ➤ Created Docker and Docker Compose containerization <br>
 
 👉 Check out [more projects on my GitHub profile](https://github.com/Maksim124512M)!
