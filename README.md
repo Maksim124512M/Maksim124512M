@@ -23,12 +23,6 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
    - Optimized ORM queries (–30% response time). 
    - Added caching & Swagger docs → improved DX and performance 
    - Enhanced API security and request validation with custom permissions and throttling policies
-     
-- **LeavePulse (03.2025–09.2025):**  
-   - Built data collection and monitoring pipeline for Minecraft server analytics 
-   - Developed data deduplication and preprocessing system for clean time-series analytics 
-   - Developed ML-based insights module to detect player activity trends and anomalies across servers 
-   - Implemented secure data access and model endpoints with JWT and Google OAuth
 
 ## 🛠️ Skills
 
