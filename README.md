@@ -26,14 +26,19 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
 
 ## 🛠️ Skills
 
-- **Machine Learning:** scikit-learn, PyTorch, Transformers, Datasets
+- **Machine Learning:** scikit-learn, PyTorch, XGBoost, CatBoost, LightGBM, Transformers, Datasets
 - **Data & Math:** pandas, numpy, matplotlib, statistics, linear algebra, optimization 
 - **Backend & Tools:** Python, FastAPI, Django, PostgreSQL, Redis, Celery, Docker, Git
 - **Testing:** Unittest, pytest
 - **Other:** Selenium, BeautifulSoup, Asyncio, httpx, aiohttp
 
 ## 📝 Personal Projects
-- [CIFAR10 image classifier](https://github.com/Maksim124512M/CIFAR10-Image-Classifier)  
+- [ML Dashboard for Automated Model Training](https://github.com/Maksim124512M/AutoML-Dashboard) <br>
+   ➤ Created dashboard to train & compare 6 ML models (classification & regression) <br>
+   ➤ Added automated preprocessing & GridSearchCV tuning <br>
+   ➤ Visualized metrics & best-model selection using dynamic Matplotlib charts <br>
+   
+- [CIFAR10 image classifier](https://github.com/Maksim124512M/CIFAR10-Image-Classifier) <br>
    ➤ Built CNN in PyTorch for CIFAR-10 classification <br>
    ➤ Built FastAPI endpoint for real-time inference <br>
    ➤ Packaged model and API in Docker for easy deployment <br>
