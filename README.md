@@ -55,7 +55,7 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
    ➤ Integrated Stripe API for book rental payments <br>
    ➤ Created Docker and Docker Compose containerization <br>
 
-👉 Check out [more projects on my GitHub profile](https://github.com/Maksim124512M)!
+👉 Check out [more projects](https://github.com/Maksim124512M?tab=repositories)!
 
 ## 📜 Certificates
 
