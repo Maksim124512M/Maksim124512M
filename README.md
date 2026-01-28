@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-I'm a Data Scientist & Machine Learning Engineer passionate about building intelligent systems and data-driven APIs.
+I'm a Machine Learning Engineer passionate about building intelligent systems and data-driven APIs.
 I have 1.5 years of experience in Python development — designing scalable data pipelines, training ML models, and deploying them into production with Docker.
 ## 💼 About Me
 
@@ -32,15 +32,17 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
 - **Other:** Selenium, BeautifulSoup, Asyncio, httpx, aiohttp
 
 ## 📝 Personal Projects
-- [ML Dashboard for Automated Model Training](https://github.com/Maksim124512M/AutoML-Dashboard) <br>
-   ➤ Created dashboard to train & compare 6 ML models (classification & regression) <br>
-   ➤ Added automated preprocessing & GridSearchCV tuning <br>
-   ➤ Visualized metrics & best-model selection using dynamic Matplotlib charts <br>
+- [Dynamic Pricing Predictor – End-to-End ML System](https://github.com/Maksim124512M/Dynamic-Pricing-Predictor) <br>
+   ➤ Built a dynamic pricing predictor with Linear Regression and Random Forest models using ColumnTransformer and Pipelines <br>
+   ➤ Implemented hyperparameter tuning with GridSearch and monitored experiments with MLflow <br>
+   ➤ Deployed as a FastAPI inference service in Docker with real-time and batch processing support <br>
+   ➤ Result: Reduced manual pricing effort, with robust pipelines and monitoring for model drift <br>
    
-- [CIFAR10 image classifier](https://github.com/Maksim124512M/CIFAR10-Image-Classifier) <br>
-   ➤ Built CNN in PyTorch for CIFAR-10 classification <br>
-   ➤ Built FastAPI endpoint for real-time inference <br>
-   ➤ Packaged model and API in Docker for easy deployment <br>
+- [MLBuddy — AutoML Telegram bot](https://github.com/Maksim124512M/MLBuddy) <br>
+   ➤ Built a Telegram bot that trains on user datasets and compares multiple ML models (regression/classification) using Pipelines and ColumnTransformer <br>
+   ➤ Implemented automatic model selection with hyperparameter tuning, tracking metrics internally <br>
+   ➤ Deployed as a FastAPI service with PostgreSQL database and Celery/Redis for asynchronous tasks, containerized with Docker <br>
+   ➤ Result: Delivered the best-performing model to users with optimal hyperparameters, enabling automated ML workflows with real-time feedback <br>
    
 - [Youtube sentiment analyzer](https://github.com/Maksim124512M/Youtube-Sentiment-Analyzer)  
    ➤ Built sentiment analysis pipeline using Hugging Face Transformers to classify YouTube comments as positive, negative, or neutral <br>
