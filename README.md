@@ -17,7 +17,7 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
 
 ### Recent Experience
 
-- **HackSpire Team (02.2025-06.2025):**  
+- **HackSpire Team (02.2025-02.2026):**  
    - Built scalable API for mind-mapping platform. 
    - Optimized ORM queries (–30% response time). 
    - Added caching & Swagger docs → improved DX and performance 
