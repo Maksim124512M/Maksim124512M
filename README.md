@@ -6,7 +6,7 @@ I have 1.5 years of experience in Python development — designing scalable data
 
 - 🏡 Based in Kyiv
 - 📧 Email: maksimvel2000@gmail.com
-- 🔗 LinkedIn: [Maxim Velichko](https://www.linkedin.com/in/maksym-velychko-60b9b9333/)
+- 🔗 LinkedIn: [Maksym Velychko](https://www.linkedin.com/in/maksym-velychko-60b9b9333/)
 - 🎮 Discord: _johndavis
 
 ## 🚀 What I Do
