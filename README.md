@@ -23,13 +23,28 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
    - Added caching & Swagger docs → improved DX and performance 
    - Enhanced API security and request validation with custom permissions and throttling policies
 
-## 🛠️ Skills
+### 🛠 Skills & Tech Stack
 
-- **Machine Learning:** scikit-learn, PyTorch, XGBoost, CatBoost, LightGBM, Transformers, Datasets
-- **Data & Math:** pandas, numpy, matplotlib, statistics, linear algebra, optimization 
-- **Backend & Tools:** Python, FastAPI, Django, PostgreSQL, Redis, Celery, Docker, Git
-- **Testing:** Unittest, pytest
-- **Other:** Selenium, BeautifulSoup, Asyncio, httpx, aiohttp
+**Machine Learning & Data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**Backend & Infrastructure**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Scraping, Testing & Tools**  
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Personal Projects
 - [Dynamic Pricing Predictor – End-to-End ML System](https://github.com/Maksim124512M/Dynamic-Pricing-Predictor) <br>
@@ -67,6 +82,15 @@ I love transforming raw data into insights, visualizations, and deployable ML mo
 
 - **Ukrainian:** native
 - **English:** B2
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maksim124512M&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maksim124512M&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
